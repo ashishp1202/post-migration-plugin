@@ -1,0 +1,5 @@
+/* Global - global pieces like media queries, mixins and placholders */
+.migration-settings th {width: 25%; text-align: left;}
+.migration-settings td {width: 100%; text-align: left;}
+.migration-settings th, .migration-settings td { padding: 15px; }
+#global_production_link { width: 50%;}
